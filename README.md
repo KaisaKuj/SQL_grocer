@@ -1,6 +1,6 @@
 # SQL_grocer
 A showcase database design for a small online store including database EER model (Grocer.mwb, also EER model.png), the created database (grocerdb.sql), 
-and populated tables (under GrocerDumb) as well as an example SQL query (Grocer_testQuery.sql) for retrieving data from multiple tables.
+and populated tables (under GrocerDumb) as well as an example SQL query (Grocer_testQuery.sql) for retrieving data from multiple tables. Original data: dataset.pdf.
 
 # Project scenario:
 Greenspot Grocer is a small online grocery store that is growing rapidly and planning a major expansion. They are currently storing their product data 
