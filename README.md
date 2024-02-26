@@ -3,7 +3,7 @@ A showcase database design for a small online store including database EER model
 and populated tables (under GrocerDumb) as well as an example SQL query (Grocer_testQuery.sql) for retrieving data from multiple tables.
 
 # Project scenario:
-Greespot Grocer is a small online grocery store that is growing rapidly and planning a major expansion. They are currently storing their product data 
+Greenspot Grocer is a small online grocery store that is growing rapidly and planning a major expansion. They are currently storing their product data 
 in a spreadsheet format that has become unwieldly and will soon be unable to accommodate their growing inventory. They want you, as a backend developer, 
 to examine their current data and design a relational database that will be able to provide the ability to organize and store current data, while providing 
 scalability as the business expands its product offerings.
