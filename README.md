@@ -4,7 +4,9 @@ and populated tables (under GrocerDumb) as well as an example SQL query (Grocer_
 
 # Project scenario:
 Greenspot Grocer is a small online grocery store that is growing rapidly and planning a major expansion. They are currently storing their product data 
-in a spreadsheet format that has become unwieldy and will soon be unable to accommodate their growing inventory. As a backend developer, examine their current data and design a relational database that will be able to provide the ability to organize and store current data, while providing 
+in a spreadsheet format that has become unwieldy and will soon be unable to accommodate their growing inventory. 
+
+As a backend developer, examine their current data and design a relational database that will be able to provide the ability to organize and store current data, while providing 
 scalability as the business expands its product offerings.
 
 1. Examine the current data and reorganize it to relational table using the modeling tool in MySQL Workbench.
